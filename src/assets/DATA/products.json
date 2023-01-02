@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "Laptop",
+        "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+        "price": 450.00,
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Karu/2021/June/Karu_LP_Laptop.png",
+        "ratings": 4
+    },
+    {
+        "id": 2,
+        "title": "Playstation 3",
+        "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+        "price": 480.00,
+        "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Karu/2021/June/Karu_LP_Playstation3.jpg",
+        "ratings": 5
+    },
+    {
+      "id": 3,
+      "title": "Wireless Headphones",
+      "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+      "price": 350.00,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSseui8P_zeWlm2qELk6Cy91GIasf_-q1Zro2wDtkURt11viN2VUHq4t0FLpbsq8YmC5qc&usqp=CAU",
+      "ratings": 5
+  },
+  {
+      "id": 4,
+      "title": "LED Keyboard",
+      "desc": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. ",
+      "price": 180.00,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHpKxviuj7CfJ5o4eV19vZCAy8bXW6AATKvQ&usqp=CAU",
+      "ratings": 5
+  }
+]

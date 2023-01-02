@@ -1,0 +1,132 @@
+/*------------ Top header styles------------- */
+.header{
+    width: 100%;
+}
+.header_top{
+    height: 60px;
+    background-color: #131A22;
+    font-size: 14px;
+    display: flex;
+    color: white;
+    padding-right: 8px;
+    padding-bottom: 8px;
+}
+.header_menu{
+    width: 100%;
+    display: flex;
+    padding: 10px 8px 8px 8px;
+}
+.header_menu > div{
+    margin: 8px;
+}
+.header_menu_logo{
+    object-fit: contain;
+    width: 100px;
+    margin: 12px 20px 0px 2px;
+}
+.header_menu_location{
+    display: flex;
+    flex-direction: column;
+}
+.header_location_top{
+    font-size: 10px;
+    color: lightgray;
+}
+.header_location_bottom{
+    font-size: 13px;
+    font-weight: 800;
+}
+.header_menu_searchbar{
+    height: 30px;
+    width: 60%;
+    background-color: #febd69;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header_menu_searchbar_icon > mat-icon{
+    font-size: 25px !important;
+    width: 40px;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.header_menu_input{
+    border: none;
+    outline: none;
+    width: 100%;
+    height: 28px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px ;
+}
+.header_menu_signin{
+    display: flex;
+    flex-direction: column;
+}
+.header_signin_top{
+    font-size: 10px;
+    color: lightgray;
+}
+.header_signin_bottom{
+    font-size: 13px;
+    font-weight: 800;
+}
+.header_menu_order{
+    display: flex;
+    flex-direction: column;
+}
+.header_order_top{
+    font-size: 10px;
+    color: lightgray;
+}
+.header_order_bottom{
+    font-size: 13px;
+    font-weight: 800;
+}
+.header_menu_cart{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 8px;
+    height: 50px;
+    justify-content: space-around;
+}
+.header_cart_number{
+    color: #febd69;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+
+/*------------ Bottom header styles------------- */
+.header_bottom{
+    display: flex;
+    height: 40px;
+    background-image: none;
+    background-color: #232f3e;
+    padding-left: 8px;
+    font-size: 12px;
+}
+.bottom_menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 8px 8px 8px;
+}
+.bottom_menu_icon{
+    color: white;
+}
+.bottom_menu_lists{
+    display: flex;
+}
+.bottom_lists{
+    display: flex;
+    list-style: none;
+    color: white;
+}
+.lists{
+    margin-left: 25px;
+    font-size: 13px;
+    font-weight: 500;
+}
